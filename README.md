@@ -4,11 +4,11 @@ Welcome to my 30-day coding challenge repository! 🌟
 This repository documents my journey through a 30-day coding challenge, where I tackled daily coding problems to enhance my skills in algorithms, data structures, and problem-solving.
 
 
-Goals
+Goals:
 👉Enhance algorithmic thinking and problem-solving skills.
 👉Document progress and learnings for personal growth.
 👉Engage with the community and share knowledge.
-👉Features
+Features:
 👉Daily solutions to coding challenges.
 👉Detailed explanations and optimizations.
 👉Reflections and insights into problem-solving techniques.
