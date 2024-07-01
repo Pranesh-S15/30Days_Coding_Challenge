@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
     public int climbStairs(int n) {
         Map<Integer, Integer> memo = new HashMap<>();
